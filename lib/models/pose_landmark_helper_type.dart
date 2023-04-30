@@ -1,0 +1,1 @@
+enum PoseLandmarkHelperType { slidingWindow, kalman }
