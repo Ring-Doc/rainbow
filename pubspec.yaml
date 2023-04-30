@@ -12,6 +12,7 @@ dependencies:
     sdk: flutter
   ml_linalg: ^13.10.5
   matrix2d: ^1.0.2
+  get: ^4.6.5
 
 dev_dependencies:
   flutter_test:

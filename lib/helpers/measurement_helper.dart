@@ -41,7 +41,6 @@ class MeasurementHelper {
     PoseLandmark? rightShoulder;
     PoseLandmark? rightElbow;
     PoseLandmark? rightWrist;
-    DistancesAngle distancesAngle;
 
     for (PoseLandmark poseLandmark in filteredLandmarks) {
       switch (poseLandmark.type) {
